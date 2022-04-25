@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "controllers",
+			"path": "..\\importer dans visual\\controllers"
+		},
+		{
+			"name": "data",
+			"path": "..\\importer dans visual\\data"
+		},
+		{
+			"name": "public",
+			"path": "..\\importer dans visual\\public"
+		},
+		{
+			"name": "util",
+			"path": "..\\importer dans visual\\util"
+		},
+		{
+			"name": "views",
+			"path": "..\\importer dans visual\\views"
+		},
+		{
+			"name": "models",
+			"path": "..\\importer dans visual\\models"
+		},
+		{
+			"name": "routes",
+			"path": "..\\importer dans visual\\routes"
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+	"settings": {}
+}
